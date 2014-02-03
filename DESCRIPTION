@@ -1,0 +1,9 @@
+Package: RDataPkg
+Title: My Data Package
+Description: An R version of SAS Datasets
+Version: 0.1
+Depends: R (>= 3.0.2)
+License: CC0
+LazyData: TRUE
+Author: Jane Doe
+Maintainer: Jane Doe <jane.doe@gmail.com>
